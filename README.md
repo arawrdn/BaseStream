@@ -1,3 +1,5 @@
+![Built on Base](https://img.shields.io/badge/Built%20on%20Base-blue?logo=coinbase)
+
 # BaseStream 📻
 
 **BaseStream** is a decentralized radio dApp built on the **Base Network**, streaming all voice notes recorded in [BaseEcho](https://github.com/arawrdn/BaseEcho).  
