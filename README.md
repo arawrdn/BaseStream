@@ -29,3 +29,36 @@ The `BaseStream.sol` contract:
 - Reads voice data from BaseEcho
 - Tracks likes and skips for each audio
 - Allows only BaseLoops NFT holders to moderate playback order.
+
+## Roadmap
+
+1. **MVP Release**
+   - Finalize core smart contracts for streaming logic
+   - Deploy contracts on Base Mainnet
+   - Build initial frontend with wallet support (MetaMask, WalletConnect)
+   - Integrate Google Sign-In for user identity
+
+2. **User Experience Improvements**
+   - Improve UI/UX for stream creation and dashboard
+   - Add real-time updates for stream state and balances
+   - Introduce clear status feedback and error handling
+
+3. **Token and Reward Systems**
+   - Design native token for stream incentives
+   - Enable reward distribution based on streaming activity
+   - Add staking or bonus mechanisms
+
+4. **Streaming Analytics and Insights**
+   - Provide user analytics dashboard
+   - Add filters and historic stream data views
+   - Integrate on-chain event tracking and logs
+
+5. **Security and Testing**
+   - Write comprehensive tests (Hardhat / Foundry)
+   - Perform smart contract audits
+   - Implement monitoring for live streams and funds
+
+6. **Expansion and Ecosystem Integration**
+   - Add mobile responsiveness and PWA support
+   - Provide public API for third-party integrations
+   - Expand into cross-chain streaming capabilities
